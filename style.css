@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+p{
+    color: rgb(204, 198, 21);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+}
+
+
+.sfondo{
+    background-color: red;
+}
